@@ -3,7 +3,12 @@ Assignment 1, Python
 
 ## Title
 
-You are now in my repository, which is dedicated to the first assignment in the python course. The work was done by a second year student from SE-2008 group - Shamshidin Sabina.
+You are now in my repository, which is dedicated to the first assignment in the python course. 
+The assignment was to write a Python code which 
+* Pulls the data from coingecko.com
+* Filters out top N cryptocurrencies by market capitalization 
+
+The work was done by a second year student from SE-2008 group - Shamshidin Sabina.
 
 ## Installation
 
