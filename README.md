@@ -1,11 +1,11 @@
 # Assignment_1
 Assignment 1, Python
 
-Title
+# Title
 
 You are now in my repository, which is dedicated to the first assignment in the python course. The work was done by a second year student from SE-2008 group - Shamshidin Sabina.
 
-Installation
+# Installation
 
 For this assignment, I installed two libraries:
 
